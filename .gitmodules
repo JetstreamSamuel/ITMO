@@ -1,0 +1,7 @@
+[submodule "3 Семестр/Веб-прога/lab1"]
+	path = 3 Семестр/Веб-прога/lab1
+	url = https://github.com/JetstreamSamuel/web1
+
+[submodule "2 Семестр/Прога/lab7"]
+	path = 2 Семестр/Прога/lab7
+	url = https://github.com/JetstreamSamuel/proga7
