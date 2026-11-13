@@ -10,3 +10,6 @@
 [submodule "2 Семестр/Прога/lab5"]
 	path = 2 Семестр/Прога/lab5
 	url = https://github.com/JetstreamSamuel/proga5
+[submodule "3 Семестр/АК/lab4"]
+	path = 3 Семестр/АК/lab4
+	url = https://github.com/JetstreamSamuel/CSA4
