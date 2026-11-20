@@ -13,3 +13,6 @@
 [submodule "3 Семестр/АК/lab4"]
 	path = 3 Семестр/АК/lab4
 	url = https://github.com/JetstreamSamuel/CSA4
+[submodule "3 Семестр/Веб-прога/lab2"]
+	path = 3 Семестр/Веб-прога/lab2
+	url = https://github.com/JetstreamSamuel/web2
